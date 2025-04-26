@@ -2,7 +2,7 @@
 Welcome to my GitHub Profile.
 
 # 💻 Personal Website:
-(https://www.github.io)
+https://www.github.io/arendunn/arendunn-portfolio
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=arendunn&theme=dark&hide_border=false)

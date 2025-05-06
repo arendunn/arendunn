@@ -11,3 +11,6 @@ https://arendunn.github.io/arendunn-portfolio/
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arendunn"/>
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arendunn"/>
+</a>

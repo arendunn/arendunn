@@ -6,7 +6,7 @@ https://arendunn.github.io/arendunn-portfolio/
 
 # 📊 GitHub Stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arendunn&hide=stars,prs,commits,issues,contribs&rank_icon=percentile&hide_title=true"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arendunn&hide=stars,prs&rank_icon=percentile&hide_title=true"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arendunn"/>

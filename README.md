@@ -5,7 +5,7 @@ Welcome to my GitHub Profile. I am a Sydney based developer, building powerful p
 ## Personal Website:
 https://arendunn.github.io/arendunn-portfolio/
 
-## ApexNet Github Organisation:
+## ApexNet GitHub Organisation:
 https://github.io/apexnet-dev/
 
 # 📊 GitHub Stats:

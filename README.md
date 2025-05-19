@@ -1,8 +1,11 @@
 # Aren Dunn
 Welcome to my GitHub Profile. I am a Sydney based developer, building powerful personal projects and a website development business called ApexNet.
 
-# 💻 Personal Website & ApexNet Github Organisation:
+# 💻 Links
+## Personal Website:
 https://arendunn.github.io/arendunn-portfolio/
+
+## ApexNet Github Organisation:
 https://github.io/apexnet-dev/
 
 # 📊 GitHub Stats:
